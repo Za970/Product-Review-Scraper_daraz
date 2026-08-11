@@ -77,4 +77,4 @@ If a field comes back as `N/A`:
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Feel free to fork and adapt, but note the disclaimer above still applies to how you use it.
+Build By Zaid Qasim . Feel free to fork and adapt, but note the disclaimer above still applies to how you use it.
