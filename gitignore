@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+env/
+
+# Output data — don't commit scraped datasets to the repo
+*.xlsx
+*.csv
+output/
+
+# Playwright
+node_modules/
+.playwright/
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/
